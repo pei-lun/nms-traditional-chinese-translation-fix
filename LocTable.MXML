@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cTkLocalisationTable">
+    <Property name="Table">
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_TRANSFER_SLOTS">
+            <Property name="Id" value="UI_TRANSFER_SLOTS" />
+            <Property name="TraditionalChinese" value="可用欄位：%AMOUNT%" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_INVENTORY_HINT_SUIT_MSG1">
+            <Property name="Id" value="UI_INVENTORY_HINT_SUIT_MSG1" />
+            <Property name="TraditionalChinese" value="強化套裝道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;按下 &lt;IMG&gt;DISCARD&lt;&gt; 丟棄不需要的物品&#xA;按下 &lt;IMG&gt;TRANSFER&lt;&gt; 將物品轉移至其他道具欄" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_INVENTORY_HINT_SUIT_MSG2A">
+            <Property name="Id" value="UI_INVENTORY_HINT_SUIT_MSG2A" />
+            <Property name="TraditionalChinese" value="強化套裝道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;按下 &lt;IMG&gt;DISCARD&lt;&gt; 丟棄不需要的物品" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_INVENTORY_HINT_SUIT_MSG2B">
+            <Property name="Id" value="UI_INVENTORY_HINT_SUIT_MSG2B" />
+            <Property name="TraditionalChinese" value="強化套裝道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;在&lt;COMMODITY&gt;太空站&lt;&gt;購買額外欄位&#xA;&lt;TECHNOLOGY&gt;空投艙&lt;&gt;可以免費太空站升級道具欄&#xA;你可以向太空站&lt;STELLAR&gt;地圖學家&lt;&gt;購買航線圖，以找到空投艙" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_INVENTORY_HINT_SHIP_MSG">
+            <Property name="Id" value="UI_INVENTORY_HINT_SHIP_MSG" />
+            <Property name="TraditionalChinese" value="太空船道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;你可以在&lt;COMMODITY&gt;太空站&lt;&gt;中購買額外欄位&#xA;按下 &lt;IMG&gt;DISCARD&lt;&gt; 丟棄不需要的物品&#xA;按下 &lt;IMG&gt;TRANSFER&lt;&gt; 將物品轉移至其他道具欄" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_INVENTORY_HINT_CAR_MSG">
+            <Property name="Id" value="UI_INVENTORY_HINT_CAR_MSG" />
+            <Property name="TraditionalChinese" value="強化艇道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;按下 &lt;IMG&gt;DISCARD&lt;&gt; 丟棄不需要的物品&#xA;按下 &lt;IMG&gt;TRANSFER&lt;&gt; 將物品轉移至其他道具欄" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_TRIAL_NO_SPACE">
+            <Property name="Id" value="UI_TRIAL_NO_SPACE" />
+            <Property name="TraditionalChinese" value="可用欄位不足，無法匯入儲存資料。&#xA;請刪除現有存檔後再試一次。" />
+        </Property>
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_TRIAL_NO_SPACE_ALT">
+            <Property name="Id" value="UI_TRIAL_NO_SPACE_ALT" />
+            <Property name="TraditionalChinese" value="可用欄位不足，無法匯入儲存資料。&#xA;請刪除 %NUM% 個現有存檔後再試一次。" />
+        </Property>
+    </Property>
+</Data>

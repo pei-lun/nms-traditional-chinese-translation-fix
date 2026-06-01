@@ -1,2 +1,3 @@
-# nvm-traditional-chinese-translation-fix
+# NMS Traditional Chinese Translation Fix
+
 修正No Man's Sky部分繁體中文的翻譯。

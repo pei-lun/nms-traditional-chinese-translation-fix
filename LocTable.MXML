@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data template="cTkLocalisationTable">
     <Property name="Table">
-        <!-- Source: nms_loc5_traditionalchinese.MXML -->
+        <!-- Source: nms_loc5_*.MXML -->
+        <Property name="Table" value="TkLocalisationEntry" _id="CTRL_BTN_PLACEMARKER">
+			<Property name="Id" value="CTRL_BTN_PLACEMARKER" />
+			<Property name="TraditionalChinese" value="放置標記" />
+		</Property>
 
-        <!-- Source: nms_loc7_traditionalchinese.MXML -->
+        <!-- Source: nms_loc7_*.MXML -->
         <Property name="Table" value="TkLocalisationEntry" _id="UI_TRANSFER_SLOTS">
             <Property name="Id" value="UI_TRANSFER_SLOTS" />
             <Property name="TraditionalChinese" value="可用欄位：%AMOUNT%" />
@@ -29,7 +33,7 @@
             <Property name="TraditionalChinese" value="強化艇道具欄可用欄位：&lt;FUEL&gt;%CURRENT%/%AMOUNT%&lt;&gt;&#xA;按下 &lt;IMG&gt;DISCARD&lt;&gt; 丟棄不需要的物品&#xA;按下 &lt;IMG&gt;TRANSFER&lt;&gt; 將物品轉移至其他道具欄" />
         </Property>
 
-        <!-- Source: nms_loc8_traditionalchinese.MXML -->
+        <!-- Source: nms_loc8_*.MXML -->
         <Property name="Table" value="TkLocalisationEntry" _id="UI_BOOT_SP_ALT1">
 			<Property name="Id" value="UI_BOOT_SP_ALT1" />
 			<Property name="TraditionalChinese" value="遊玩" />
@@ -46,5 +50,11 @@
             <Property name="Id" value="UI_TRIAL_NO_SPACE_ALT" />
             <Property name="TraditionalChinese" value="可用欄位不足，無法匯入存檔資料。&#xA;請刪除 %NUM% 個現有存檔後再試一次。" />
         </Property>
+
+        <!-- Source: nms_update3_usenglish.MXML -->
+        <Property name="Table" value="TkLocalisationEntry" _id="UI_PLACEMARKER_NAME_L">
+			<Property name="Id" value="UI_PLACEMARKER_NAME_L" />
+			<Property name="TraditionalChinese" value="已部署導航標記" />
+		</Property>
     </Property>
 </Data>
